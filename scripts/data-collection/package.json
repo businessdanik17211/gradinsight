@@ -1,0 +1,13 @@
+{
+  "name": "data-collection-scripts",
+  "version": "1.0.0",
+  "description": "Scripts for collecting profession forecast and salary data",
+  "scripts": {
+    "collect:forecasts": "tsx collect-forecasts.ts",
+    "collect:salaries": "tsx collect-salaries.ts",
+    "collect:all": "npm run collect:forecasts && npm run collect:salaries"
+  },
+  "dependencies": {
+    "tsx": "^4.0.0"
+  }
+}

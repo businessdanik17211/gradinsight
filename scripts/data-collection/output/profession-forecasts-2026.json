@@ -1,0 +1,841 @@
+[
+  {
+    "name": "Водитель автомобиля",
+    "category": "worker",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "myfin.by",
+    "city": "Минск",
+    "related_specialties": []
+  },
+  {
+    "name": "Каменщик",
+    "category": "worker",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "myfin.by",
+    "city": "Минск",
+    "related_specialties": []
+  },
+  {
+    "name": "Маляр",
+    "category": "worker",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "myfin.by",
+    "city": "Минск",
+    "related_specialties": []
+  },
+  {
+    "name": "Штукатур",
+    "category": "worker",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "myfin.by",
+    "city": "Минск",
+    "related_specialties": []
+  },
+  {
+    "name": "Монтажник строительных конструкций",
+    "category": "worker",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "myfin.by",
+    "city": "Минск",
+    "related_specialties": []
+  },
+  {
+    "name": "Официант",
+    "category": "worker",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "myfin.by",
+    "city": "Минск",
+    "related_specialties": []
+  },
+  {
+    "name": "Повар",
+    "category": "worker",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "myfin.by",
+    "city": "Минск",
+    "related_specialties": []
+  },
+  {
+    "name": "Продавец",
+    "category": "worker",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "myfin.by",
+    "city": "Минск",
+    "related_specialties": []
+  },
+  {
+    "name": "Электромонтер",
+    "category": "worker",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "myfin.by",
+    "city": "Минск",
+    "related_specialties": []
+  },
+  {
+    "name": "Бухгалтер",
+    "category": "employee",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "myfin.by",
+    "city": "Минск",
+    "related_specialties": [
+      "Бухгалтерский учет, анализ и аудит",
+      "Финансы и кредит"
+    ]
+  },
+  {
+    "name": "Воспитатель",
+    "category": "employee",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "myfin.by",
+    "city": "Минск",
+    "related_specialties": [
+      "Дошкольное образование",
+      "Педагогика"
+    ]
+  },
+  {
+    "name": "Врач-специалист",
+    "category": "employee",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "myfin.by",
+    "city": "Минск",
+    "related_specialties": [
+      "Лечебное дело",
+      "Педиатрия",
+      "Стоматология"
+    ]
+  },
+  {
+    "name": "Государственный налоговый инспектор",
+    "category": "employee",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "myfin.by",
+    "city": "Минск",
+    "related_specialties": [
+      "Государственное управление",
+      "Правоведение"
+    ]
+  },
+  {
+    "name": "Менеджер по продажам",
+    "category": "employee",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "myfin.by",
+    "city": "Минск",
+    "related_specialties": [
+      "Менеджмент",
+      "Маркетинг",
+      "Коммерческая деятельность"
+    ]
+  },
+  {
+    "name": "Специалист по кадрам",
+    "category": "employee",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "myfin.by",
+    "city": "Минск",
+    "related_specialties": [
+      "Управление персоналом",
+      "Менеджмент"
+    ]
+  },
+  {
+    "name": "Специалист по оказанию банковских услуг",
+    "category": "employee",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "myfin.by",
+    "city": "Минск",
+    "related_specialties": [
+      "Финансы и кредит",
+      "Банковское дело"
+    ]
+  },
+  {
+    "name": "Учитель",
+    "category": "employee",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "myfin.by",
+    "city": "Минск",
+    "related_specialties": [
+      "Педагогика",
+      "Начальное образование",
+      "Дошкольное образование"
+    ]
+  },
+  {
+    "name": "Фельдшер",
+    "category": "employee",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "myfin.by",
+    "city": "Минск",
+    "related_specialties": [
+      "Медицинское дело",
+      "Лечебное дело"
+    ]
+  },
+  {
+    "name": "Юрист",
+    "category": "employee",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "myfin.by",
+    "city": "Минск",
+    "related_specialties": [
+      "Правоведение",
+      "Международное право"
+    ]
+  },
+  {
+    "name": "Визажист",
+    "category": "worker",
+    "demand_level": "low",
+    "year": 2026,
+    "source": "myfin.by",
+    "city": "Минск",
+    "related_specialties": []
+  },
+  {
+    "name": "Вязальщица",
+    "category": "worker",
+    "demand_level": "low",
+    "year": 2026,
+    "source": "myfin.by",
+    "city": "Минск",
+    "related_specialties": []
+  },
+  {
+    "name": "Кузнец штамповки",
+    "category": "worker",
+    "demand_level": "low",
+    "year": 2026,
+    "source": "myfin.by",
+    "city": "Минск",
+    "related_specialties": []
+  },
+  {
+    "name": "Настройщик инструментов",
+    "category": "worker",
+    "demand_level": "low",
+    "year": 2026,
+    "source": "myfin.by",
+    "city": "Минск",
+    "related_specialties": []
+  },
+  {
+    "name": "Обойщик мебели",
+    "category": "worker",
+    "demand_level": "low",
+    "year": 2026,
+    "source": "myfin.by",
+    "city": "Минск",
+    "related_specialties": []
+  },
+  {
+    "name": "Печатник",
+    "category": "worker",
+    "demand_level": "low",
+    "year": 2026,
+    "source": "myfin.by",
+    "city": "Минск",
+    "related_specialties": []
+  },
+  {
+    "name": "Телеграфист",
+    "category": "worker",
+    "demand_level": "low",
+    "year": 2026,
+    "source": "myfin.by",
+    "city": "Минск",
+    "related_specialties": []
+  },
+  {
+    "name": "Ткач",
+    "category": "worker",
+    "demand_level": "low",
+    "year": 2026,
+    "source": "myfin.by",
+    "city": "Минск",
+    "related_specialties": []
+  },
+  {
+    "name": "Фотограф",
+    "category": "worker",
+    "demand_level": "low",
+    "year": 2026,
+    "source": "myfin.by",
+    "city": "Минск",
+    "related_specialties": []
+  },
+  {
+    "name": "Дизайнер",
+    "category": "employee",
+    "demand_level": "low",
+    "year": 2026,
+    "source": "myfin.by",
+    "city": "Минск",
+    "related_specialties": [
+      "Дизайн",
+      "Архитектура"
+    ]
+  },
+  {
+    "name": "Зубной техник",
+    "category": "employee",
+    "demand_level": "low",
+    "year": 2026,
+    "source": "myfin.by",
+    "city": "Минск",
+    "related_specialties": []
+  },
+  {
+    "name": "Тестировщик программного обеспечения",
+    "category": "employee",
+    "demand_level": "low",
+    "year": 2026,
+    "source": "myfin.by",
+    "city": "Минск",
+    "related_specialties": [
+      "Программное обеспечение",
+      "Информатика"
+    ]
+  },
+  {
+    "name": "Культорганизатор",
+    "category": "employee",
+    "demand_level": "low",
+    "year": 2026,
+    "source": "myfin.by",
+    "city": "Минск",
+    "related_specialties": []
+  },
+  {
+    "name": "Художник",
+    "category": "employee",
+    "demand_level": "low",
+    "year": 2026,
+    "source": "myfin.by",
+    "city": "Минск",
+    "related_specialties": []
+  },
+  {
+    "name": "Эколог",
+    "category": "employee",
+    "demand_level": "low",
+    "year": 2026,
+    "source": "myfin.by",
+    "city": "Минск",
+    "related_specialties": [
+      "Экология",
+      "Природоохранная деятельность"
+    ]
+  },
+  {
+    "name": "Экскурсовод",
+    "category": "employee",
+    "demand_level": "low",
+    "year": 2026,
+    "source": "myfin.by",
+    "city": "Минск",
+    "related_specialties": []
+  },
+  {
+    "name": "Бармен",
+    "category": "worker",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "neg.by",
+    "city": "Минск",
+    "related_specialties": []
+  },
+  {
+    "name": "Бариста",
+    "category": "worker",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "neg.by",
+    "city": "Минск",
+    "related_specialties": []
+  },
+  {
+    "name": "Монтажник сантехсистем и оборудования",
+    "category": "worker",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "neg.by",
+    "city": "Минск",
+    "related_specialties": []
+  },
+  {
+    "name": "Наладчик станков с программным управлением",
+    "category": "worker",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "neg.by",
+    "city": "Минск",
+    "related_specialties": []
+  },
+  {
+    "name": "Облицовщик-плиточник",
+    "category": "worker",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "neg.by",
+    "city": "Минск",
+    "related_specialties": []
+  },
+  {
+    "name": "Контролер-кассир",
+    "category": "worker",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "neg.by",
+    "city": "Минск",
+    "related_specialties": []
+  },
+  {
+    "name": "Кондитер",
+    "category": "worker",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "neg.by",
+    "city": "Минск",
+    "related_specialties": []
+  },
+  {
+    "name": "Слесарь механосборочных работ",
+    "category": "worker",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "neg.by",
+    "city": "Минск",
+    "related_specialties": []
+  },
+  {
+    "name": "Слесарь по ремонту автомобилей",
+    "category": "worker",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "neg.by",
+    "city": "Минск",
+    "related_specialties": []
+  },
+  {
+    "name": "Слесарь-ремонтник",
+    "category": "worker",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "neg.by",
+    "city": "Минск",
+    "related_specialties": []
+  },
+  {
+    "name": "Слесарь-сантехник",
+    "category": "worker",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "neg.by",
+    "city": "Минск",
+    "related_specialties": []
+  },
+  {
+    "name": "Токарь",
+    "category": "worker",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "neg.by",
+    "city": "Минск",
+    "related_specialties": []
+  },
+  {
+    "name": "Фрезеровщик",
+    "category": "worker",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "neg.by",
+    "city": "Минск",
+    "related_specialties": []
+  },
+  {
+    "name": "Тракторист",
+    "category": "worker",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "neg.by",
+    "city": "Минск",
+    "related_specialties": []
+  },
+  {
+    "name": "Электрогазосварщик",
+    "category": "worker",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "neg.by",
+    "city": "Минск",
+    "related_specialties": []
+  },
+  {
+    "name": "Инженер",
+    "category": "employee",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "neg.by",
+    "city": "Минск",
+    "related_specialties": [
+      "Инженерные науки",
+      "Машиностроение",
+      "Электроника"
+    ]
+  },
+  {
+    "name": "Маркетолог",
+    "category": "employee",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "neg.by",
+    "city": "Минск",
+    "related_specialties": [
+      "Маркетинг",
+      "Менеджмент",
+      "Экономика"
+    ]
+  },
+  {
+    "name": "Медсестра",
+    "category": "employee",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "neg.by",
+    "city": "Минск",
+    "related_specialties": [
+      "Медицинское дело",
+      "Лечебное дело"
+    ]
+  },
+  {
+    "name": "Педагог дополнительного образования",
+    "category": "employee",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "neg.by",
+    "city": "Минск",
+    "related_specialties": [
+      "Педагогика",
+      "Дополнительное образование"
+    ]
+  },
+  {
+    "name": "Педагог-психолог",
+    "category": "employee",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "neg.by",
+    "city": "Минск",
+    "related_specialties": [
+      "Психология",
+      "Педагогика"
+    ]
+  },
+  {
+    "name": "Экономист",
+    "category": "employee",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "neg.by",
+    "city": "Минск",
+    "related_specialties": [
+      "Экономика",
+      "Финансы и кредит",
+      "Мировая экономика"
+    ]
+  },
+  {
+    "name": "Косметик",
+    "category": "worker",
+    "demand_level": "low",
+    "year": 2026,
+    "source": "neg.by",
+    "city": "Минск",
+    "related_specialties": []
+  },
+  {
+    "name": "Закройщик",
+    "category": "worker",
+    "demand_level": "low",
+    "year": 2026,
+    "source": "neg.by",
+    "city": "Минск",
+    "related_specialties": []
+  },
+  {
+    "name": "Кузнец",
+    "category": "worker",
+    "demand_level": "low",
+    "year": 2026,
+    "source": "neg.by",
+    "city": "Минск",
+    "related_specialties": []
+  },
+  {
+    "name": "Радиомеханик",
+    "category": "worker",
+    "demand_level": "low",
+    "year": 2026,
+    "source": "neg.by",
+    "city": "Минск",
+    "related_specialties": []
+  },
+  {
+    "name": "Модельер-конструктор",
+    "category": "employee",
+    "demand_level": "low",
+    "year": 2026,
+    "source": "neg.by",
+    "city": "Минск",
+    "related_specialties": []
+  },
+  {
+    "name": "Корреспондент",
+    "category": "employee",
+    "demand_level": "low",
+    "year": 2026,
+    "source": "neg.by",
+    "city": "Минск",
+    "related_specialties": []
+  },
+  {
+    "name": "Риелтор",
+    "category": "employee",
+    "demand_level": "low",
+    "year": 2026,
+    "source": "neg.by",
+    "city": "Минск",
+    "related_specialties": []
+  },
+  {
+    "name": "Секретарь-референт",
+    "category": "employee",
+    "demand_level": "low",
+    "year": 2026,
+    "source": "neg.by",
+    "city": "Минск",
+    "related_specialties": []
+  },
+  {
+    "name": "Техник-программист",
+    "category": "employee",
+    "demand_level": "low",
+    "year": 2026,
+    "source": "neg.by",
+    "city": "Минск",
+    "related_specialties": [
+      "Программное обеспечение",
+      "Информатика"
+    ]
+  },
+  {
+    "name": "Программист",
+    "category": "specialist",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "kudapostupat.by",
+    "city": "Беларусь",
+    "description": "Нужны не только в IT-компаниях, но и в традиционных отраслях для повышения эффективности",
+    "related_specialties": [
+      "Программное обеспечение информационных технологий",
+      "Информатика",
+      "Прикладная информатика"
+    ]
+  },
+  {
+    "name": "Специалист по веб-порталам",
+    "category": "specialist",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "kudapostupat.by",
+    "city": "Беларусь",
+    "related_specialties": []
+  },
+  {
+    "name": "Специалист технической поддержки",
+    "category": "specialist",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "kudapostupat.by",
+    "city": "Беларусь",
+    "related_specialties": []
+  },
+  {
+    "name": "Станочник",
+    "category": "worker",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "kudapostupat.by",
+    "city": "Беларусь",
+    "description": "Квалифицированные рабочие для работы на сложном оборудовании",
+    "related_specialties": []
+  },
+  {
+    "name": "Наладчик",
+    "category": "worker",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "kudapostupat.by",
+    "city": "Беларусь",
+    "related_specialties": []
+  },
+  {
+    "name": "Слесарь-сборщик",
+    "category": "worker",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "kudapostupat.by",
+    "city": "Беларусь",
+    "related_specialties": []
+  },
+  {
+    "name": "Электромеханик",
+    "category": "worker",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "kudapostupat.by",
+    "city": "Беларусь",
+    "related_specialties": []
+  },
+  {
+    "name": "Инженер-технолог",
+    "category": "specialist",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "kudapostupat.by",
+    "city": "Беларусь",
+    "description": "Для обеспечения технологического прорыва",
+    "related_specialties": [
+      "Технология машиностроения",
+      "Материаловедение"
+    ]
+  },
+  {
+    "name": "Инженер по контролю качества",
+    "category": "specialist",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "kudapostupat.by",
+    "city": "Беларусь",
+    "related_specialties": []
+  },
+  {
+    "name": "Инженер-строитель",
+    "category": "specialist",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "kudapostupat.by",
+    "city": "Беларусь",
+    "related_specialties": [
+      "Промышленное и гражданское строительство",
+      "Архитектура"
+    ]
+  },
+  {
+    "name": "Инженер-механик",
+    "category": "specialist",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "kudapostupat.by",
+    "city": "Беларусь",
+    "related_specialties": []
+  },
+  {
+    "name": "Бетонщик",
+    "category": "worker",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "kudapostupat.by",
+    "city": "Беларусь",
+    "related_specialties": []
+  },
+  {
+    "name": "Сварщик",
+    "category": "worker",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "kudapostupat.by",
+    "city": "Беларусь",
+    "related_specialties": []
+  },
+  {
+    "name": "Электромонтажник",
+    "category": "worker",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "kudapostupat.by",
+    "city": "Беларусь",
+    "related_specialties": []
+  },
+  {
+    "name": "Специалист по уходу",
+    "category": "specialist",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "kudapostupat.by",
+    "city": "Беларусь",
+    "description": "Стабильный спрос из-за старения населения",
+    "related_specialties": [
+      "Медицинское дело",
+      "Социальная работа"
+    ]
+  },
+  {
+    "name": "Врач",
+    "category": "specialist",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "kudapostupat.by",
+    "city": "Беларусь",
+    "related_specialties": [
+      "Лечебное дело",
+      "Педиатрия",
+      "Стоматология"
+    ]
+  },
+  {
+    "name": "Кассир",
+    "category": "worker",
+    "demand_level": "medium",
+    "year": 2026,
+    "source": "kudapostupat.by",
+    "city": "Беларусь",
+    "related_specialties": []
+  },
+  {
+    "name": "Педагог",
+    "category": "specialist",
+    "demand_level": "high",
+    "year": 2026,
+    "source": "kudapostupat.by",
+    "city": "Беларусь",
+    "description": "Без качественного образования невозможно подготовить кадры",
+    "related_specialties": [
+      "Педагогика",
+      "Дошкольное образование",
+      "Начальное образование"
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "total_professions": 70,
+  "total_vacancies": 21020,
+  "data_date": "2026-02-01",
+  "source": "rabota.by",
+  "city": "Минск",
+  "salary_ranges": {
+    "min": 700,
+    "max": 8000,
+    "avg": 1847
+  }
+}
